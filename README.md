@@ -182,7 +182,7 @@ A machine learning project that predicts student exam performance using academic
 
 ### PIPELINE
 
-```text
+
 DATA
   ↓
 CLEANING
@@ -416,4 +416,4 @@ CONNECT
 C.V.N.S.S. Sarvan
 
 <sub> Computer Science • AI / ML • Gameplay • Research </sub> </div> <br>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F0A1F&height=120&section=footer"/> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F0A1F&height=120&section=footer"/> </div>
