@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F12,45:24104F,75:5B21B6,100:111827&height=220&section=header&text=SARVAN%20C&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%20•%20%20GAMEPLAY%20%20•%20%20SOFTWARE&descSize=18&descAlignY=60&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A1F,50:4C1D95,100:7C3AED&height=220&section=header&text=C.V.N.S.S.%20SARVAN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%7C%20INTELLIGENCE%20%7C%20INTERACTIVE%20SYSTEMS&descAlignY=60&descSize=14"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Building+with+C%2B%2B+%7C+Python+%7C+PyTorch;Exploring+AI%2FML+and+Generative+AI;Developing+Gameplay+Systems+with+Unreal+Engine;Researching+Diffusion+Models" alt="Typing animation"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Gameplay+%7C+AI%2FML+%7C+Research;Building+systems+that+actually+do+something.;Currently+learning%2C+building%2C+breaking%2C+rebuilding." />
+</a>
 
 <br><br>
 
+<a href="https://github.com/Sarvan-0">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sarvan-c/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="mailto:sarvan.cvnss@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Sarvan-0">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
@@ -30,372 +32,388 @@
 
 ---
 
-<div align="center">
-
 # BUILDING THE NEXT LEVEL.
 
-### Software. Intelligence. Interactive Systems.
+> Computer Science undergraduate exploring **software engineering, artificial intelligence, and interactive systems**.
 
-I am a Computer Science undergraduate exploring the intersection of
+I like understanding how systems work, building them from scratch, and then finding out exactly how badly I broke them.
 
-**Artificial Intelligence · Machine Learning · C++ · Gameplay Programming**
+Currently focused on strengthening my foundations in:
 
-</div>
+- C / C++
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Unreal Engine
+- AI systems
+- Research implementation
 
 <br>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" align="center">
 
 ### CURRENTLY
 
+**Learning**
 
-Learning
-──────────────
-Machine Learning
-C++
-Data Structures
-Software Engineering
-</td> <td width="50%" valign="top">
-BUILDING
-Developing
-──────────────
-AI / ML Projects
-Unreal Gameplay
-C++ Systems
-Generative AI
-</td> </tr> </table> <br> <div align="center">
+C++ • DSA • Machine Learning
 
-HYDERABAD, INDIA    B.TECH CSE    GPA 8.0 / 10
+**Exploring**
+
+AI systems • Gameplay programming
+
+</td>
+
+<td width="50%" align="center">
+
+### BUILDING
+
+**Projects**
+
+ML applications • Unreal systems
+
+**Research**
+
+Diffusion models • Image generation
+
+</td>
+
+</tr>
+</table>
 
 </div>
-THE WORK
+
+<br>
+
+---
+
+# THE WORK
+
 <div align="center">
-Three directions. One engineering journey.
-</div> <br> <table> <tr> <td width="33%" align="center">
-🤖
-AI / ML
 
-Python
-PyTorch
-Scikit-learn
-Machine Learning
-Generative AI
+<table>
+<tr>
 
-</td> <td width="33%" align="center">
-🎮
-GAMEPLAY
+<td width="33%" align="center">
 
-C++
-Unreal Engine 5
-AI Perception
-Behavior Trees
+### AI / ML
+
+Machine Learning  
+Python  
+Pandas  
+Scikit-learn  
+Data Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+### GAMEPLAY
+
+C++  
+Unreal Engine 5  
+AI Systems  
+Gameplay Mechanics  
 Animation Systems
 
-</td> <td width="33%" align="center">
-🔬
-RESEARCH
+</td>
 
-Diffusion Models
+<td width="33%" align="center">
+
+### RESEARCH
+
+Diffusion Models  
+PyTorch  
+Image Generation  
+Experiments  
+Model Evaluation
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# PROJECTS
+
+<details>
+<summary><strong>🎮 MIDNIGHT HEIST</strong> · Unreal Engine 5</summary>
+
+<br>
+
+A gameplay-focused Unreal Engine project built around stealth mechanics and AI-driven guards.
+
+### SYSTEMS
+
+- AI Guard behavior
+- Behavior Trees
+- AI Perception
+- Mantling
+- Rolling
+- Stealth takedowns
+- Animation State Machines
+
+### FOCUS
+
+`Gameplay Programming` · `AI` · `Animation Systems` · `Unreal Engine 5`
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📊 STUDENT PERFORMANCE PREDICTOR</strong> · Python / Machine Learning</summary>
+
+<br>
+
+A machine learning project that predicts student exam performance using academic, personal, and environmental factors.
+
+### PIPELINE
+
+```text
+DATA
+  ↓
+CLEANING
+  ↓
+MISSING VALUES
+  ↓
+ENCODING
+  ↓
+TRAIN / TEST SPLIT
+  ↓
+REGRESSION
+  ↓
+EVALUATION
+STACK
+
+Python · Pandas · Scikit-learn · Matplotlib
+
+FOCUS
+
+Data preprocessing, feature handling, regression, and model evaluation.
+
+<br> </details> <br> <details> <summary><strong>🔬 SINGLE IMAGE GENERATION</strong> · Diffusion Research</summary> <br>
+
+Research work focused on single-image generation using diffusion-based approaches.
+
+EXPERIMENTED WITH
 StructDiff
 SinDiff
-Model Training
-Evaluation
+PyTorch
+Image preprocessing
+Training
+Hyperparameter experimentation
+Qualitative evaluation
+RESEARCH EXPERIENCE
 
-</td> </tr> </table>
-PROJECTS
-<div align="center">
-SELECT A PROJECT
-</div> <br> <details> <summary> <strong>🎮 MIDNIGHT HEIST</strong> &nbsp; · &nbsp; Unreal Engine 5 </summary> <br>
-A stealth gameplay experiment.
-
-Built with Unreal Engine 5, focusing on AI-driven enemies, traversal, stealth mechanics and responsive character movement.
-
-<br>
-SYSTEM	IMPLEMENTATION
-Enemy AI	Behavior Trees
-Detection	AI Perception
-Traversal	Mantling
-Movement	Rolling
-Stealth	Takedown System
-Animation	Animation State Machines
-<br>
-PLAYER
-   │
-   ├── Movement
-   │      ├── Rolling
-   │      └── Mantling
-   │
-   ├── Stealth
-   │      └── Takedown
-   │
-   └── AI
-          ├── Perception
-          └── Behavior Trees
-
-Built with
-
-Unreal Engine 5
-
-</details> <br> <details> <summary> <strong>🤖 STUDENT PERFORMANCE PREDICTOR</strong> &nbsp; · &nbsp; Machine Learning </summary> <br>
-Predicting academic outcomes from structured data.
-
-A machine learning project designed to predict student examination scores using academic, personal and environmental factors.
-
-<br>
-PIPELINE
-DATASET
-   ↓
-DATA CLEANING
-   ↓
-MISSING VALUES
-   ↓
-CATEGORICAL ENCODING
-   ↓
-FEATURE PREPARATION
-   ↓
-TRAIN / TEST SPLIT
-   ↓
-REGRESSION
-   ↓
-EVALUATION
-ENGINEERING WORK
-Data cleaning
-Missing-value handling
-Categorical encoding
-Feature preparation
-Training/testing split
-Regression models
-Prediction evaluation
-Data visualization
-
-Built with
-
-Python Pandas Scikit-learn Matplotlib
-
-</details> <br> <details> <summary> <strong>🔬 SINGLE IMAGE GENERATION</strong> &nbsp; · &nbsp; Research </summary> <br>
-Exploring diffusion-based image generation.
-
-Research internship work at National Institute of Technology Andhra Pradesh, focused on single-image generation using diffusion models.
-
-<br>
-RESEARCH STACK
-PYTHON
-   │
-   └── PYTORCH
-          │
-          ├── StructDiff
-          │
-          ├── SinDiff
-          │
-          ├── Model Training
-          │
-          ├── Hyperparameter Experiments
-          │
-          └── Qualitative Evaluation
-CONTRIBUTION
-Research and implementation
-Data preprocessing
-Diffusion model experimentation
-Model training
-Hyperparameter tuning
-Generated-image evaluation
-Technical documentation
-Experimental analysis
-
-Research period
+Research Intern — National Institute of Technology Andhra Pradesh
 
 May 2026 → June 2026
 
-<br> <a href="https://drive.google.com/file/d/1qoTFelI5JiRTP1GpFZvvKHH-quPVfoi1/view?usp=sharing"> <img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-7C3AED?style=for-the-badge&logo=google-drive&logoColor=white"/> </a>
+The work involved implementing and experimenting with diffusion-based image generation approaches while documenting observations and results.
+
+<br> <a href="https://drive.google.com/file/d/1qoTFelI5JiRTP1GpFZvvKHH-quPVfoi1/view?usp=sharing"> <img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20CERTIFICATE-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"/> </a>
 
 <br><br>
 
-Internship source code is not publicly published. The certificate above is the available public artifact.
-
-</details>
+</details> <br>
 EXPERIENCE
-<div align="center">
-RESEARCH → LEADERSHIP → ENGINEERING
-</div> <br> <details> <summary><strong>01 · RESEARCH INTERN</strong> &nbsp; National Institute of Technology Andhra Pradesh</summary> <br>
+<details> <summary><strong>🔬 RESEARCH INTERN</strong> · National Institute of Technology Andhra Pradesh</summary> <br>
 
-May 2026 — June 2026
+May 2026 → June 2026
 
-Worked on Single Image Generation using Diffusion Models.
+SINGLE IMAGE GENERATION USING DIFFUSION MODELS
 
-WHAT I WORKED ON
-StructDiff
-SinDiff
-PyTorch experimentation
-Data preprocessing
+Worked with diffusion-based image generation approaches using PyTorch.
+
+WORK INVOLVED
+Studying diffusion architectures
+Experimenting with StructDiff and SinDiff
+Image preprocessing
 Model training
 Hyperparameter tuning
 Qualitative evaluation
-Technical documentation
-<br> <a href="https://drive.google.com/file/d/1qoTFelI5JiRTP1GpFZvvKHH-quPVfoi1/view?usp=sharing">
+Research documentation
+<br> <a href="https://drive.google.com/file/d/1qoTFelI5JiRTP1GpFZvvKHH-quPVfoi1/view?usp=sharing"> <img src="https://img.shields.io/badge/INTERNSHIP%20CERTIFICATE-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"/> </a> <br> </details> <br> <details> <summary><strong>🎮 PRESIDENT</strong> · The Game Smiths Club</summary> <br>
 
-→ View Certificate
+September 2025 → July 2026
 
-</a> </details> <br> <details> <summary><strong>02 · PRESIDENT</strong> &nbsp; The Game Smiths Club</summary> <br>
+Led a student game development community focused on collaborative learning and practical development.
 
-September 2025 — July 2026
-
-Led a student community focused on game development, design, workshops and collaborative projects.
-
-WHAT I WORKED ON
-Led game development activities
+RESPONSIBILITIES
+Coordinated club activities
 Organized workshops
-Coordinated collaborative projects
-Encouraged technical problem-solving
-Worked with faculty and students
-Promoted game development across departments
+Supported collaborative projects
+Encouraged peer learning
+Worked with students and faculty
+Helped build a game development community
+FOCUS
 
-Leadership
+Leadership · Game Development · Teamwork · Problem Solving
 
-Teamwork Coordination Game Development Problem Solving
-
-</details>
+<br> </details> <br>
 TECHNOLOGY
 <div align="center">
 LANGUAGES
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,sql"/>
 
 <br><br>
 
-AI / MACHINE LEARNING
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark"/>
+TOOLS & ENGINES
+<img src="https://skillicons.dev/icons?i=git,github,unreal,unity,godot"/>
 
 <br><br>
 
-GAME DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=unreal,unity,godot&theme=dark"/>
+AI / DATA
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
 
 <br><br>
 
-WEB / DATABASE
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite&theme=dark"/>
-
-<br><br>
-
-TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/> </div>
+</div> <table align="center"> <tr> <td align="center"><strong>C</strong><br>Foundation</td> <td align="center"><strong>C++</strong><br>Growing</td> <td align="center"><strong>Python</strong><br>AI / ML</td> <td align="center"><strong>Java</strong><br>Software</td> <td align="center"><strong>SQL</strong><br>Databases</td> </tr> </table> <br>
 RESEARCH LAB
 <div align="center">
 DIFFUSION MODELS
-</div> <br> <table> <tr> <td width="50%" align="center">
+<table> <tr> <td width="50%" align="center">
 STRUCTDIFF
 
-Research experimentation involving
-single-image generation.
+Single-image generation
+
+Diffusion-based research
+
+Model experimentation
 
 </td> <td width="50%" align="center">
 SINDIFF
 
-Research experimentation involving
-diffusion-based image generation.
+Single-image generation
 
-</td> </tr> </table> <br> <div align="center">
-RESEARCH LOOP
+Diffusion-based research
 
-QUESTION
-   ↓
-IMPLEMENT
-   ↓
-TRAIN
-   ↓
-EXPERIMENT
-   ↓
-EVALUATE
-   ↓
-DOCUMENT
-   ↓
-ITERATE
-</div>
+Model experimentation
+
+</td> </tr> </table> <br>
+RESEARCH PIPELINE
+<table> <tr> <td align="center"> <strong>01</strong><br> QUESTION </td> <td align="center">→</td> <td align="center"> <strong>02</strong><br> IMPLEMENT </td> <td align="center">→</td> <td align="center"> <strong>03</strong><br> TRAIN </td> <td align="center">→</td> <td align="center"> <strong>04</strong><br> EXPERIMENT </td> <td align="center">→</td> <td align="center"> <strong>05</strong><br> EVALUATE </td> <td align="center">→</td> <td align="center"> <strong>06</strong><br> ITERATE </td> </tr> </table> <br> <sub> QUESTION → IMPLEMENT → TRAIN → EXPERIMENT → EVALUATE → ITERATE </sub> </div> <br>
 EDUCATION
-<details> <summary><strong>🎓 GEETHANJALI COLLEGE OF ENGINEERING AND TECHNOLOGY</strong></summary> <br>
-B.Tech · Computer Science and Engineering
+<details> <summary><strong>🎓 B.TECH — COMPUTER SCIENCE & ENGINEERING</strong></summary> <br>
 
-2023 — 2027
+Geethanjali College of Engineering and Technology
 
-GPA
+2023 → 2027
 
-8.0 / 10.0
+CGPA: 8.0 / 10.0
 
-Till 3-1
+<br> </details> <br> <details> <summary><strong>📚 INTERMEDIATE EDUCATION</strong></summary> <br>
 
-</details> <br> <details> <summary><strong>📚 NARAYANA JUNIOR COLLEGE</strong></summary> <br>
-Secondary Education
+Narayana Junior College
 
-2021 — 2023
+2021 → 2023
 
-Marks
+Score: 949 / 1000
 
-949 / 1000
-</details>
+<br> </details> <br>
 CURRENT MISSION
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=LEVELING+UP+C%2B%2B;BUILDING+AI%2FML+PROJECTS;LEARNING+DATA+STRUCTURES;EXPLORING+GENERATIVE+AI;BUILDING+WITH+UNREAL+ENGINE" alt="Current mission"/> </div> <br> <table> <tr> <td width="25%" align="center">
-🧠
+<div align="center">
+current_stage:
+  role: "Computer Science Undergraduate"
 
-LEARN
+learning:
+  - C++
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Unreal Engine
 
-C++
-DSA
-ML
+building:
+  - AI / ML projects
+  - Gameplay systems
+  - Research implementations
 
-</td> <td width="25%" align="center">
-⚙️
+exploring:
+  - Artificial Intelligence
+  - Gameplay Programming
+  - Computer Graphics
+  - Software Engineering
 
-BUILD
-
-AI Systems
-Gameplay
-Software
-
-</td> <td width="25%" align="center">
-🔬
-
-EXPLORE
-
-GenAI
-Diffusion
-Research
-
-</td> <td width="25%" align="center">
-🚀
-
-SHIP
-
-Projects
-Experiments
-Systems
-
-</td> </tr> </table>
+long_term:
+  - Build technically strong systems
+  - Work on challenging engineering problems
+  - Combine AI with interactive technology
+</div> <br>
 GITHUB
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarvan-0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&ring_color=7C3AED&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-0&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=D1D5DB" height="180"/>
+<div align="center">
+THE CODEBASE
+<br> <a href="https://github.com/Sarvan-0?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <br><br>
 
-<a href="https://github.com/Sarvan-0?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<table> <tr> <td width="33%" align="center">
+🧠
+
+AI / ML
+
+Machine Learning
+
+Python
+
+PyTorch
+
+</td> <td width="33%" align="center">
+🎮
+
+GAMEPLAY
+
+C++
+
+Unreal Engine
+
+Gameplay Systems
+
+</td> <td width="33%" align="center">
+🔬
+
+RESEARCH
+
+Diffusion
+
+Experiments
+
+Implementation
+
+</td> </tr> </table> <br> <sub> More experiments, prototypes and questionable engineering decisions live in the repositories. </sub> </div> <br>
 BEYOND THE CODE
 <div align="center">
 
-GAME DEVELOPMENT   ·   VIDEO GAMES   ·   MUSIC   ·   MOVIES   ·   CRICKET
-
-</div>
-CONNECT
-<div align="center">
-LET'S BUILD SOMETHING.
-<br> <a href="https://www.linkedin.com/in/sarvan-c/"> <img src="https://img.shields.io/badge/LINKEDIN-SARVAN%20C-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
- 
-
-<a href="mailto:sarvan.cvnss@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-SARVAN.CVNSS%40GMAIL.COM-111111?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
- 
-
-<a href="https://github.com/Sarvan-0"> <img src="https://img.shields.io/badge/GITHUB-SARVAN--0-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+🎮 Game Development
+  •  
+🎵 Music
+  •  
+🎬 Movies
+  •  
+🏏 Cricket
+  •  
+🌍 Languages
 
 <br><br>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:312E81,65:6D28D9,100:0F0F12&height=150&section=footer&animation=twinkling" width="100%"/> </div> 
+<sub> Currently learning German and Spanish. </sub> </div> <br>
+CONNECT
+<div align="center"> <a href="https://github.com/Sarvan-0"> <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sarvan-c/"> <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sarvan.cvnss@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+C.V.N.S.S. Sarvan
+
+<sub> Computer Science • AI / ML • Gameplay • Research </sub> </div> <br>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F0A1F&height=120&section=footer"/> </div> ```
