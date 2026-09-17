@@ -85,38 +85,67 @@ Diffusion models • Image generation
 
 # LIVE ACTIVITY
 
+### 🟢 Plug-and-play — loads immediately, nothing to set up
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvan-0&theme=react-dark&bg_color=0F0A1F&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvan-0&theme=dark&background=0F0A1F&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Sarvan-0&theme=dark&background=0F0A1F&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarvan-0&show_icons=true&theme=dark&bg_color=0F0A1F&title_color=A78BFA&icon_color=7C3AED&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarvan-0&show_icons=true&theme=dark&bg_color=0F0A1F&title_color=A78BFA&icon_color=7C3AED&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-0&layout=compact&theme=dark&bg_color=0F0A1F&title_color=A78BFA&hide_border=true" height="165"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sarvan-0&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8&title=DiffStats,Repositories,Commits,Followers" />
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote"/>
 
 </div>
 
 <br>
 
-> **Setup note:** these three widgets (activity graph, streak stats, stats cards) are powered by public third-party services keyed off your GitHub username — they refresh automatically on every profile visit, no action needed once pushed. They should "just work" since your username is `Sarvan-0`, but if any card shows an error, that service is usually just cold-starting — reload after a minute.
+> **What changed:** the streak-stats widget was pointing at `github-readme-streak-stats.herokuapp.com` — Heroku killed free app hosting a while back, so that URL was permanently dead, not a fluke. It now points to `streak-stats.demolab.com`, the actively-maintained fork, which will actually render. I also dropped `count_private=true` from the stats card — that flag only works if the card is deployed with your own GitHub token, otherwise some deployments silently fail on it. Everything in this section is a public API keyed only to your username `Sarvan-0` — no repo changes needed, they just render.
+>
+> If one of these still shows a broken image after pushing: right-click → open image in new tab. A `404`/`500` in the URL bar means that specific free service is down (happens occasionally, nothing you did wrong) — wait a bit or swap to an alternate host below. A blank/loading icon that never resolves is usually just GitHub's own image proxy cache — hard-refresh (Ctrl/Cmd+Shift+R) the profile page.
 
 <br>
 
 ---
 
-# CONTRIBUTION SNAKE
+# LEVEL UP — richer animation (one-time, ~5 min setup)
+
+These two need a GitHub Action running in your profile repo (`Sarvan-0/Sarvan-0`) because they render *your actual contribution data* as a fresh SVG file, which a stateless API can't do on its own.
+
+### 🐍 Contribution snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sarvan-0/Sarvan-0/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarvan-0/Sarvan-0/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sarvan-0/Sarvan-0/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
 
 </div>
 
-> This animated snake "eats" your contribution graph and updates daily. It needs a one-time GitHub Action added to your profile repo — steps are at the end of this file.
+An animated snake that "eats" the squares of your contribution graph and re-renders daily.
+
+### 📊 Animated 3D contribution calendar + language breakdown
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Sarvan-0?template=classic&base=header,activity&config.timezone=Asia%2FKolkata&isocalendar=true&isocalendar.duration=full-year&languages=true&languages.limit=6" width="95%"/>
+
+</div>
+
+An isometric, animated calendar of your commits plus a live pie chart of your top languages — pulled straight from `lowlighter/metrics`, the most feature-rich profile-README generator out there. Both images will 404 until the one-time Action setup below is done — that's expected, not broken.
 
 <br>
 
@@ -536,3 +565,4 @@ Implementation
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F0A1F&height=120&section=footer"/>
 </div>
+-->
